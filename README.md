@@ -1,2 +1,2 @@
 # My-google-classroom
-My first repository
+My first Repository
